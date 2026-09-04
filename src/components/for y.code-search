@@ -1,0 +1,14 @@
+# Query: for y
+# ContextLines: 1
+
+2 results - 2 files
+
+README.md:
+  3: A clean and interactive **Happy Birthday website** built with modern animations and smooth page transitions. It’s designed to create a personalized and memorable birthday experience for your friends or loved ones.
+
+src/components/BookCanvas.jsx:
+  36                          <p className="cover-subtitle">
+  37                          <p className="cover-subtitle">
+  38:                             A  message just for you... 💌
+  38                          </p>
+  39                          </p>
