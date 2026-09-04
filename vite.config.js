@@ -1,7 +1,4 @@
-import { defineConfig } from 'vite'
-import React from '@vitejs/plugin-react'
-
 export default defineConfig({
-  plugins: [React()],
-  base: '/Happy-Birthday-tahan/',
+  base: '/Happy-Birthday/',  // ← এই লাইন থাকতে হবে
+  plugins: [react(), tailwindcss()],
 })
